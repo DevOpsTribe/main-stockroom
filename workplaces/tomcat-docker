@@ -9,7 +9,7 @@
   },
   {
     "places": ["docker_tomcat_image_is_not_present"],
-    "works": ["docker_tomcat_image"]
+    "works": ["docker_pull_tomcat"]
   },
   {
     "places": ["everywhere", "docker_tomcat_is_not_running"],
