@@ -8,7 +8,11 @@
     "works": ["docker_start_systemd"]
   },
   {
-    "places": ["everywhere","docker_tomcat_image", "docker_tomcat_is_not_running"],
+    "places": ["docker_tomcat_image"],
+    "works": ["docker_tomcat_image"]
+  },
+  {
+    "places": ["everywhere", "docker_tomcat_is_not_running"],
     "works": ["run_tomcat_docker"]
   }
 ]
