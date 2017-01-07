@@ -1,0 +1,10 @@
+[
+  {
+     "places": ["osx"],
+     "works": ["testfile"]
+  },
+  {
+     "places": ["centos7"],
+     "works": ["testfile"]
+  }
+]
