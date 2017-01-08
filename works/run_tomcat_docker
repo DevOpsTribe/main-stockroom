@@ -1,1 +1,1 @@
-sudo docker run --rm -p 8888:8080 tomcat:latest 2>&1 &
+sudo docker run -d -p 8888:8080 tomcat:latest 2>&1 &
