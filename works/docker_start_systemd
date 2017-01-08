@@ -1,1 +1,1 @@
-systemctl start docker
+sudo systemctl start docker
