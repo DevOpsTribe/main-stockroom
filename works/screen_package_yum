@@ -1,1 +1,1 @@
-yum -y install screen
+sudo yum -y install screen
